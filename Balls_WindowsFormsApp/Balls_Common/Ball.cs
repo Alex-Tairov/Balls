@@ -95,16 +95,7 @@ namespace Balls_Common
             graphics.FillEllipse(new SolidBrush(color), rectangle);
             
         }
-        /*
-        //Считаем шарики
-        
-        public bool OnForm()
-        {
-
-            return ((x >= 0 & x + size <= form.ClientSize.Width) & (y >= 0 & y + size <= form.ClientSize.Height));
-        }
-        */
-
+      
         //Останавливаем шарик
         public bool Catch(int x, int y)
         {

@@ -10,11 +10,6 @@ namespace Balls_Common
             centerX = radius / 2;
             centerY = radius / 2;
             color = Color.Yellow;
-
-
         }
     }
-
-
-
 }
