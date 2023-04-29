@@ -13,6 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalutWindowsFormsApp", "Sal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitNinjaWindowsFormsApp", "FruitNinjaWindowsFormsApp\FruitNinjaWindowsFormsApp.csproj", "{CF82E7F3-0DE2-415E-BBDE-0E31110EAD84}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pictures", "pictures", "{D75E9A01-BEF2-44BF-961F-5037A79AB574}"
+	ProjectSection(SolutionItems) = preProject
+		..\FN.gif = ..\FN.gif
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
