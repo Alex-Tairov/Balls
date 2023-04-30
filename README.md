@@ -11,6 +11,8 @@
 
 ## Описание классов библиотеки.
 - public class Ball класс шарика(родительский класс).
-- public class BlueBall класс синего шарика.
+- public class RandomColorMovementBall класс,реализующий случайный цвет.
+- public class RandomMovementBall класс,реализующий случайную скорость.
 - public class RedBall класс красного шара(реализующий замедление скорости).
+- public class BombBall класс черного шара.
 
